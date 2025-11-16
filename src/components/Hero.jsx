@@ -6,7 +6,7 @@ export default function Hero() {
         <div className="max-w-6xl mx-auto px-4 py-24 sm:py-32">
           <div className="max-w-2xl bg-white/80 backdrop-blur-xl p-6 sm:p-8 rounded-2xl shadow-xl">
             <h2 className="text-3xl sm:text-5xl font-extrabold tracking-tight text-gray-900">le maitre du sandwish</h2>
-            <p className="mt-2 text-gray-700">Saveurs authentiques de Casablanca</p>
+            <p className="mt-2 text-gray-700">Bocadillos & sandwiches à la baguette — saveurs de Casablanca</p>
             <p className="mt-4 text-gray-700 text-lg">Adresse : 14 All. des Mimosas, Casablanca 20000</p>
             <p className="text-gray-700">Ouvert • Ferme à 23:00</p>
             <div className="mt-6 flex flex-col sm:flex-row gap-3">
