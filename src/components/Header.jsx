@@ -7,7 +7,7 @@ export default function Header() {
         <div className="flex items-center gap-3">
           <div className="h-10 w-10 rounded-full bg-gradient-to-br from-amber-400 to-rose-500" />
           <div>
-            <h1 className="text-xl font-bold tracking-tight">Les Mimosas</h1>
+            <h1 className="text-xl font-bold tracking-tight">le maitre du sandwish</h1>
             <p className="text-xs text-gray-500">Cuisine marocaine • Casablanca</p>
           </div>
         </div>
